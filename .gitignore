@@ -1,0 +1,21 @@
+# Maven/Java
+target/
+pom.xml.tag
+pom.xml.releaseBackup
+pom.xml.versionsBackup
+release.properties
+dependency-reduced-pom.xml
+*.iml
+*.ipr
+*.iws
+.idea/
+.project
+.classpath
+.settings/
+*.classpath
+*.project
+*.prefs
+*.log
+hs_err_pid*
+*.swp
+.DS_Store
